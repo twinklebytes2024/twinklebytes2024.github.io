@@ -1,7 +1,7 @@
 export default function Home() {
   return (
     <div className="flex flex-col items-center justify-center min-h-screen text-center">
-      <div className="h-screen w-full flex flex-col justify-center items-center bg-gradient-to-r from-blue-500 to-blue-700 gap-5">
+      <div className="h-screen w-full flex flex-col justify-center items-center bg-gradient-to-r from-purple-500 to-purple-700 gap-5">
         <div className="flex items-center">
           <img src="logo.png" alt="TwinkleBytes Logo" width={60} height={60} />
           <span className="text-white text-3xl font-semibold">TwinkleBytes</span>
